@@ -26,5 +26,5 @@
     * BFS
     * DFS 
     * Spanning Tree
-     * Prims's Algorithm
+      * Prims's Algorithm
   * Hashing 
