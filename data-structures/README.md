@@ -3,6 +3,7 @@
     * 1-D Array
     * 2-D Array
   * Linked List
+    * Singly Linked List
     * Doubly Linked List
     * Circular Linked List
     * Circular Doubly List
@@ -13,8 +14,17 @@
     * Array Implementation
     * Linked List Implementation
     * Circular Queue
-  * Binary Tree
-  * BST
+  * Tree
+    * Binary Tree
+    * BST
+    * AVL Tree
+    * B Tree
+    * B+ Tree
+    * Red Black Tree
   * Heap
   * Graph
+    * BFS
+    * DFS 
+    * Spanning Tree
+     * Prims's Algorithm
   * Hashing 
