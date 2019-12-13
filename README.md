@@ -16,6 +16,6 @@
   * System Design
   * Design Patterns
 * To Do
- * Open Source Contribution(s)
- * Research Paper(s)
- * Certification(s)
+  * Open Source Contribution(s)
+  * Research Paper(s)
+  * Certification(s)
