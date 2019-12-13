@@ -7,10 +7,16 @@
   * JavaScript
 * Core Subjects
   * Data Structures
+  * Design and Analysis of Algorithms
   * Algorithms
+  * Theory of Computation
+  * Object Oriented Programming
   * DBMS
-  * Operating System
+  * Operating Systems
+  * Software Engineering
   * Computer Networks
+  * Computer Architecture and Organization
+  * Discrete Mathematics
 * Key Skills
   * Problem Solving
   * System Design
