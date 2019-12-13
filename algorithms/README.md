@@ -7,3 +7,6 @@
   * Insertion Sort
   * Bucket Sort
   * Merge Sort
+  * Heap Sort
+  * Quick Sort
+  * Radix Sort
