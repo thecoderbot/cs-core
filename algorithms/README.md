@@ -2,11 +2,18 @@
   * Linear Search
   * Binary Search
 * Sorting Algorithms
-  * Bubble Sort
+  * Insertion Sort 
   * Selection Sort
-  * Insertion Sort
-  * Bucket Sort
+  * Bubble Sort
   * Merge Sort
-  * Heap Sort
   * Quick Sort
+  * Bucket Sort
+  * Heap Sort
   * Radix Sort
+* Other Algorithms
+  * Floyd's Cycle Detection Algorithm
+  * Union-Find Algorithm
+  * Single source shortest path algorithm
+    * Dijkstra's Algorithm
+  * All pairs shortest path algorithm
+    * Floyd-Warshell Algorithm
