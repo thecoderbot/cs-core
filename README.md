@@ -8,8 +8,8 @@
 * Core subjects
   * Data Structures
   * Design and Analysis of Algorithms
-  * Algorithms
   * Theory of Computation
+  * Compiler Design
   * Object Oriented Programming
   * DBMS
   * Operating Systems
