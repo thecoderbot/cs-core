@@ -1,5 +1,5 @@
 # cs-core
-* Programming Language(s)
+* Programming Languages
   * C
   * C++
   * Java
@@ -8,9 +8,9 @@
 * Core Subjects
   * Data Structures
   * Algorithms
-  * Database Management System
+  * DBMS
   * Operating System
-  * Conputer Networks
+  * Computer Networks
 * Key Skills
   * Problem Solving
   * System Design
