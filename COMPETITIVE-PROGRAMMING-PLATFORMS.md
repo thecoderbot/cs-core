@@ -1,4 +1,4 @@
-# competitive-programming
+# competitive-programming-platforms
   * Platforms
     * CodeJam
     * InterviewBit
