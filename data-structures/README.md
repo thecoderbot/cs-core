@@ -7,7 +7,12 @@
     * Circular Linked List
     * Circular Doubly List
   * Stack
+    * Array Implementation
+    * Linked List Implementation
   * Queue
+    * Array Implementation
+    * Linked List Implementation
+    * Circular Queue
   * Binary Tree
   * BST
   * Heap
