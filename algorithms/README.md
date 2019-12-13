@@ -2,3 +2,8 @@
   * Linear Search
   * Binary Search
 * Sorting Algorithms
+  * Bubble Sort
+  * Selection Sort
+  * Insertion Sort
+  * Bucket Sort
+  * Merge Sort
