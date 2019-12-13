@@ -1,8 +1,18 @@
 # competitive-programming
   * Platforms
+    * CodeJam
+    * InterviewBit
     * HackerRank
     * HackerEarth
     * LeetCode
     * CodeChef
     * TopCoder
     * Codeforces
+    * Coderbyte
+    * Codewars
+    * SPOJ
+    * HackerBlocks
+    * CodeFights
+    * GeeksforGeeks
+    * Exercism
+    * CodeinGame
