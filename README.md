@@ -1,11 +1,11 @@
 # cs-core
-* Programming Languages
+* Programming languages
   * C
   * C++
   * Java
   * Python
   * JavaScript
-* Core Subjects
+* Core subjects
   * Data Structures
   * Design and Analysis of Algorithms
   * Algorithms
@@ -17,11 +17,11 @@
   * Computer Networks
   * Computer Architecture and Organization
   * Discrete Mathematics
-* Key Skills
+* Key skills
   * Problem Solving
   * System Design
   * Design Patterns
-* To Do
+* To do list
   * Coding practice 
   * Open source contributions
   * Research papers
