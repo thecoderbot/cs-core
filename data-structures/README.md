@@ -27,4 +27,5 @@
     * DFS 
     * Spanning Tree
       * Prims's Algorithm
+      * Kruskal's Algorithm
   * Hashing 
