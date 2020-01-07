@@ -22,9 +22,34 @@
   * System Design
   * Design Patterns
     * Creational 
-     *
+      * Abstract factory
+      * Builder
+      * Factory method
+      * Object pool
+      * Prototype
+      * Singleton
     * Structural
+      * Adapter 
+      * Bridge
+      * Composite
+      * Decorator
+      * Facade
+      * Flyweight
+      * Private class data
+      * Proxy
     * Behavioral
+      * Chain of responsibility
+      * Command
+      * Interpreter
+      * Iterator
+      * Mediator
+      * Memento
+      * Null object
+      * Observer
+      * State
+      * Strategy
+      * Template method
+      * Visitor
 * To do list
   * Coding practice i.e. competitive programming 
   * Open source contributions
