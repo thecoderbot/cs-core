@@ -21,9 +21,10 @@
   * Problem Solving
   * System Design
   * Design Patterns
-   * Creational 
-   * Structural
-   * Behavioral
+    * Creational 
+     *
+    * Structural
+    * Behavioral
 * To do list
   * Coding practice i.e. competitive programming 
   * Open source contributions
