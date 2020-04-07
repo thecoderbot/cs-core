@@ -1,15 +1,17 @@
 * Searching Algorithms
   * Linear Search
   * Binary Search
-* Sorting Algorithms
-  * Insertion Sort 
-  * Selection Sort
+* Sorting Algorithms 
   * Bubble Sort
+  * Selection Sort
   * Merge Sort
+  * Insertion Sort
   * Quick Sort
-  * Bucket Sort
   * Heap Sort
+  * Bucket Sort
+  * Counting Sort
   * Radix Sort
+  * Shell Sort
 * Other Algorithms
   * Floyd's Cycle Detection Algorithm
   * Union-Find Algorithm
