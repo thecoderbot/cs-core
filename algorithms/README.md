@@ -12,7 +12,9 @@
   * Counting Sort
   * Radix Sort
   * Shell Sort
+* Divide and Conquer
 * Recursion
+* Hashing
 * Greedy Algorithms
 * Dynamic Programming
 * Backtracking
