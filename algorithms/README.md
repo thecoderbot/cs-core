@@ -12,6 +12,14 @@
   * Counting Sort
   * Radix Sort
   * Shell Sort
+* Recursion
+* Greedy Algorithms
+* Dynamic Programming
+* Backtracking
+* Mathematical
+* Bit Manipulation
+* Prime Numbers
+* Combinatorics
 * Other Algorithms
   * Floyd's Cycle Detection Algorithm
   * Union-Find Algorithm
