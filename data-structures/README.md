@@ -22,10 +22,6 @@
     * B+ Tree
     * Red Black Tree
   * Heap
+  * Hashing
+  * Matrix
   * Graph
-    * BFS
-    * DFS 
-    * Spanning Tree
-      * Prims's Algorithm
-      * Kruskal's Algorithm
-  * Hashing 
