@@ -10,9 +10,11 @@
   * Stack
     * Array Implementation
     * Linked List Implementation
+    * Stack using Queue
   * Queue
     * Array Implementation
     * Linked List Implementation
+    * Queue using Stack
     * Circular Queue
   * Tree
     * Binary Tree
