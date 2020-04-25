@@ -1,5 +1,5 @@
 # cpp-stl
-* STL mainly composed of
+* STL mainly composed of:
   * Algorithms
   * Containers
   * Iterators
