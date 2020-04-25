@@ -3,6 +3,8 @@
   * Algorithms
   * Containers
   * Iterators
+* Pair (not a part of STL)
+* Tuple (not a part of STL)
 * Sequence containers
   * Array
   * Vector
