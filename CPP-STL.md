@@ -1,4 +1,8 @@
-# cpp-stl-containers
+# cpp-stl
+* STL mainly composed of
+  * Algorithms
+  * Containers
+  * Iterators
 * Sequence containers
   * Array
   * Vector
