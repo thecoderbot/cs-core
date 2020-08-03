@@ -16,3 +16,5 @@
     * GeeksforGeeks
     * Exercism
     * CodeinGame
+    * Coding Blocks
+    * AlgoExpert
