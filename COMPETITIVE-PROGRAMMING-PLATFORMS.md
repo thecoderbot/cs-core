@@ -19,3 +19,6 @@
     * Coding Blocks
     * AlgoExpert
     * Log2Base2
+    * Project Euler
+    * Hacker Cup
+    * Imagine Cup
